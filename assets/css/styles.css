@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Matemasie&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.imagenHeader {
+    width: 100%;
+}
+
+.seccion1 {
+    display: flex;
+    align-items: center;
+    gap: 4em;
+    width: 60%;
+    margin: 5% auto;
+}
+
+
+.seccion1 p {
+    color: #fff;
+
+}
+
+.seccion1 img {
+    width: 40%;
+}
+
+.seccion2 {
+    background-color: #1E1A13;
+    color: #fff;
+    justify-content: center;
+   
+}
+
+.caracteristicas{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.SuperDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.SuperDiv div {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 40px;
+    width: 143px;
+}
+
+.seccion3 {
+    display: flex;
+
+}
+
+.seccion3 img {
+    width: 300px;
+    margin: 40px auto;
+}
+
+footer {
+    align-items: center;
+    align-content: center;
+    display: block;
+    text-align: center;
+    color: #fff;
+    background-color: #1E1A13;
+    height: 90px;
+}
+
